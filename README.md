@@ -1,7 +1,7 @@
     
 # Educational Platform Database Project
 
-Projekt został stworzony przez **[Filipa Mokrzyckiego](https://github.com/Filipmok-agh)**, **[Piotra Kacprzaka](https://github.com/pkacprzak5)** oraz **[Mateusza Wójcika](https://github.com/wmaqk1)** w ramach opracowania bazy danych dla platformy edukacyjnej, implementowanej przy użyciu **Microsoft SQL Server**. Celem projektu było zaprojektowanie efektywnego systemu bazy danych, który wspiera potrzeby zarządzania danymi.
+Projekt został stworzony przez **[Filipa Mokrzyckiego](https://github.com/filip-mok)**, **[Piotra Kacprzaka](https://github.com/pkacprzak5)** oraz **[Mateusza Wójcika](https://github.com/wmaqk1)** w ramach opracowania bazy danych dla platformy edukacyjnej, implementowanej przy użyciu **Microsoft SQL Server**. Celem projektu było zaprojektowanie efektywnego systemu bazy danych, który wspiera potrzeby zarządzania danymi.
 
 ## Kluczowe cechy:
 
